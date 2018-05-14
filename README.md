@@ -25,7 +25,7 @@ Used data.json file.
 
 Retrieve property deatils + Estate company + prices. 
 
-# Project4 - Zomato web scarping - Top restaurant in Bangalore
+# Project4 - Zomato web scraping - Top restaurant in Bangalore
 
 Restaurant Name + Address + Cuisine.
 
