@@ -21,11 +21,11 @@ An Interactive Dictionary to find the meaning of the desired word. Produce error
 Used data.json file.         
 
 
-# Project3 - Commonfloor web scarping 
+# Project3 - Commonfloor web scraping 
 
 Retrieve property deatils + Estate company + prices. 
 
-# Project4 - Zomato web scarping - Top restaurant in Bangalore
+# Project4 - Zomato web scraping - Top restaurant in Bangalore
 
 Restaurant Name + Address + Cuisine.
 
