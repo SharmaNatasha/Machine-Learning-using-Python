@@ -1,4 +1,4 @@
-# Project1 - Wind Power Output predictions
+# Project1 - Wind Power Output Predictions
 
 Wind power forecasting Data Excel file containing wind power and weather forecast data.
               
